@@ -1,0 +1,10 @@
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\BitCoin.exe.config
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\BitCoin.exe
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\BitCoin.pdb
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\NBitcoin.dll
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\NBitcoin.xml
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\obj\Debug\BitCoin.csprojResolveAssemblyReference.cache
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\obj\Debug\BitCoin.exe
+C:\Users\tphmi\Desktop\C#\BitCoin\BitCoin\obj\Debug\BitCoin.pdb
